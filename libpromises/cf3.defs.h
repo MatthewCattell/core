@@ -63,7 +63,7 @@
 #define CF_MAXLINKSIZE 256
 #define CF_MAX_IP_LEN 64        /* TODO INET6_ADDRSTRLEN */
 #define CF_PROCCOLS 16
-#define CF_HASHTABLESIZE 8192
+#define CF_HASHTABLESIZE 16384
 #define CF_MACROALPHABET 61     /* a-z, A-Z plus a bit */
 #define CF_ALPHABETSIZE 256
 #define CF_SAMEMODE 7777
